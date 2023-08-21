@@ -1,0 +1,99 @@
+.O{
+    background: linear-gradient(
+        136.16deg, 
+         rgba(186, 128, 133, 0.87) 12.91%, 
+        rgba(186, 128, 133, 0.87) 87.68%
+    )
+    }
+
+.E{
+    width: 5em;
+    }
+header {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding-top: 0px; 
+    height: 100%;
+    display: flex;
+}
+.A{
+    width: 100%;
+    
+}
+.a{
+    display: flex;
+    padding: 20px;
+}
+.I ul li{
+    list-style: none;
+    padding: 8px 12px;
+    position: relative;
+}
+.b{
+    color: rgb(39, 63, 168);
+    font-size: 40px;
+}
+.c{
+    display: flex;
+    margin: 40px;
+}
+.C ul li{
+    list-style: none;
+    padding: 8px 30px;
+}
+
+.row{
+    display: flex;
+}
+.p{
+    width: 440%;
+}
+.row1{
+    display: flex;
+}
+.p{
+    width: 440px;
+}
+.g{
+    color: darkorange;
+    font-size: 75px;
+    text-align: center;
+}
+.H{
+    background-color: bisque;
+}
+.f{
+    font-size: 20px;
+    width: 1OOpx;
+}
+.O3{
+    background-color: sandybrown;
+}
+.X{
+    width: 1320px;
+}
+.e{
+    font-size: 50px;
+
+}
+.foto1{
+    width: 700px;
+}
+.aa{
+    display: flex;
+   font-size: 35px;
+}
+.bb{
+    text-align: center;
+    
+}
+.cc{
+    font-size: 36px;
+    text-align: center;
+    color: sandybrown;
+}
+.dd{
+    font-size: 29px;
+    text-align: center;
+    color: brown;
+}
