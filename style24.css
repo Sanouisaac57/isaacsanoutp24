@@ -6,6 +6,11 @@
     )
     }
 
+.P{
+    background-image: url("img0.jpg");
+    width: 100px;
+}
+
 .E{
     width: 5em;
     }
@@ -23,11 +28,13 @@ header {
 .a{
     display: flex;
     padding: 20px;
+    
 }
 .I ul li{
     list-style: none;
     padding: 8px 12px;
     position: relative;
+    color: crimson;
 }
 .b{
     color: rgb(39, 63, 168);
@@ -77,14 +84,16 @@ header {
 
 }
 .foto1{
-    width: 700px;
+    width: 500px;
 }
 .aa{
+    background-color: bisque;
     display: flex;
-   font-size: 35px;
+   font-size: 25px;
+   justify-content: space-around;
 }
 .bb{
-    text-align: center;
+    text-align: cen;
     
 }
 .cc{
@@ -93,6 +102,163 @@ header {
     color: sandybrown;
 }
 .dd{
+    font-size: 29px;
+    text-align: center;
+    color: brown;
+}
+.W{
+    /* background-color: whitesmoke; */
+    display: flex;
+    justify-content: center;
+}
+.face{
+    width: 300px;
+    font-size: 30px;
+}
+.twi{
+    width: 300px;
+    font-size: 30px;
+}
+.wha{
+    width: 300px;
+    font-size: 30px;
+}
+.inst{
+    width: 300px;
+    font-size: 30px;
+}
+.t{
+    color: darkorange;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+
+footer{
+    background-color: papayawhip;
+}
+.k{
+    color: darkorange;
+    font-size: 30px;
+    text-align: center;
+}
+.M{
+    display: flex;
+    justify-content: center;
+    /* font-size: 100px; */
+}
+.m1{
+    width: 400px;
+}
+.m2{
+    width: 400px;
+}
+.m3{
+    width: 400px;
+}
+.m4{
+    width: 400px;
+}
+.m11{
+    font-size: 80px;
+}
+.m22{
+    font-size: 80px;
+}
+.m33{
+    font-size: 80px;
+}
+.m44{
+    font-size: 80px;
+}
+
+.aa1{
+    display: flex;
+    justify-content: space-around;
+}
+.foto2{
+    animation: 4s;
+    width: 500px;
+    height: 500px;
+}
+.bb1{
+    background-color: floralwhite;
+    font-size: 25px;
+    text-align: cent;
+    padding: 10px;
+}
+.dd1{
+    font-size: 29px;
+    text-align: center;
+    color: brown;
+}
+.aa2{
+    display: flex;
+    justify-content: space-around;
+}
+.dd2{
+    font-size: 29px;
+    text-align: center;
+    color: brown;
+}
+.bb2{
+    background-color: floralwhite;
+    font-size: 25px; 
+    padding: 10px;
+}
+.foto3{
+    animation: 4s ease-in-out infinite
+    width: 500px;
+    height: 500px;
+}
+.U1{
+    width: 100px;
+    height: 500px;
+}
+/* page opportinuté */
+
+.ccc{
+    font-size: 36px;
+    text-align: center;
+    color: sandybrown;
+}
+.ddd{
+    font-size: 29px;
+    text-align: center;
+    color: brown;
+}
+
+
+
+
+/* page evenements */
+.aaaa{
+    display: flex;
+    padding: 20px;
+}
+.foto4{
+        animation: 4s;
+        width: 700px;
+        height: 500px;
+}
+.U2{
+    width: 100px;
+    height: 500px;
+}
+.cccc{
+    font-size: 36px;
+    text-align: center;
+    color: sandybrown;
+}
+.bbbb{
+    background-color: floralwhite;
+    font-size: 21px;
+    text-align: cent;
+    padding: 10px;
+}
+.dddd{
     font-size: 29px;
     text-align: center;
     color: brown;
